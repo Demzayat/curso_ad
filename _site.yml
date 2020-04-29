@@ -1,0 +1,8 @@
+navbar:
+  title: Derecho Antidiscriminatorio
+  left:
+    - text: Indice
+      href: index.html
+output:
+  html_document:
+    theme: flatly
