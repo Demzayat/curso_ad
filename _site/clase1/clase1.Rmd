@@ -1,0 +1,31 @@
+---
+title: "Clase 1"
+date: "30 de abril de 2020"
+output: html_document
+---
+## Introducción
+
+En esta primera clase vamos a hacer una introducción al curso, pasamos rápidamente a las diferencias entre las concepciones de igualdad como no discriminación y la de igualdad como no sometimiento.
+
+Luego pasamos a una introducción a la Teoría de Raws. Seguimos acá  el texto de Queralt Lange
+1. Queralt Lange, [capítulo 2 (Rawls)](https://drive.google.com/open?id=0B50ljTnhr79kUVRhc2E2TFphWnc)
+
+Seguido a Rawls, vemos las críticas que se le hicieron a esta teoría desde el Igualitarismo de la Suerte, concretamente las que hace Dworkin en el capítulo 2 de Virtud Soberana. También seguimos a Queralt Lange, [capítulo 4 (Dworkin)](https://drive.google.com/open?id=0B50ljTnhr79kdEZybzdoMlR5aVU).
+
+Luego hacemos un pequeño ejercicio ejemplo, con el caso de los subsidios habitacionales de la Ciudad de Buenos Aires. Si quieren más datos sobre este tema, está mi trabajo sobre [pobres merecedores y no merecedores](https://www.palermo.edu/derecho/revista_juridica/pub-15/Revista_Juridica_Ano15-N1_02.pdf)
+
+Y por último, pasamos a la teoría de la igualdad relacional,expuesta por Elizabeth Anderson, [Whats the point of equality?](https://drive.google.com/open?id=0B50ljTnhr79kRkd5MWQwMVNRUmM) (igualdad relacional).
+
+Si se quedaron con otros textos sobre igualdad relacional, pueden ver el de Cesar Rodriguez Garavito y Carlos Andres Baquero Diaz, [aca](https://www.dejusticia.org/wp-content/uploads/2017/04/fi_name_recurso_745.pdf)
+
+Aca las [diapositivas](https://focused-clarke-aca23e.netlify.app/)
+
+y aca el [video](https://drive.google.com/open?id=1t4q9uCV8yYe4kBgw1QMZBPIBY6o8ZqLb)
+
+<!-- blank line -->
+<figure class="video_container">
+  <iframe width="700" height="400"  
+  src="https://drive.google.com/open?id=1t4q9uCV8yYe4kBgw1QMZBPIBY6o8ZqLb/preview" frameborder="1" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+

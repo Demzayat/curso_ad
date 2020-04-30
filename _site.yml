@@ -1,8 +1,10 @@
 navbar:
   title: Derecho Antidiscriminatorio
   left:
-    - text: Indice
+    - text: Programa
       href: index.html
+    - text: Clase 1
+      href: clase1.html
 output:
   html_document:
     theme: flatly
