@@ -21,11 +21,10 @@ Si se quedaron con otros textos sobre igualdad relacional, pueden ver el de Cesa
 Aca las [diapositivas](https://focused-clarke-aca23e.netlify.app/)
 
 y aca el [video](https://drive.google.com/open?id=1t4q9uCV8yYe4kBgw1QMZBPIBY6o8ZqLb)
-(si no termino de procesarse, se puede descargar de todos modos)
+
 <!-- blank line -->
 <figure class="video_container">
-  <iframe width="700" height="400"  
-  src="https://drive.google.com/file/d/1t4q9uCV8yYe4kBgw1QMZBPIBY6o8ZqLb/view?usp=sharing" frameborder="1" allowfullscreen="true"> </iframe>
+  <iframe src="https://drive.google.com/file/d/1t4q9uCV8yYe4kBgw1QMZBPIBY6o8ZqLb/preview" width="640" height="480"> </iframe>
 </figure>
 <!-- blank line -->
 
