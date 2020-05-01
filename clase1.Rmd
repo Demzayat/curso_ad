@@ -22,9 +22,5 @@ Aca las [diapositivas](https://focused-clarke-aca23e.netlify.app/)
 
 y aca el [video](https://drive.google.com/open?id=1t4q9uCV8yYe4kBgw1QMZBPIBY6o8ZqLb)
 
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://drive.google.com/file/d/1t4q9uCV8yYe4kBgw1QMZBPIBY6o8ZqLb/preview" width="640" height="480"> </iframe>
-</figure>
-<!-- blank line -->
+<iframe src="https://drive.google.com/file/d/1t4q9uCV8yYe4kBgw1QMZBPIBY6o8ZqLb/preview" width="640" height="480"></iframe>
 
