@@ -1,0 +1,29 @@
+---
+title: "Clase2"
+author: "Demian Zayat"
+date: "5/8/2020"
+output: html_document
+---
+
+## Igualdad como no discriminación
+
+En este segundo encuentro vamos a ver la teoría de la igualdad como no discriminación. 
+
+El artículo 16 de la CN nos habla de que _todos somos iguales ante la ley_ pero qué significa ello? La Corte Suprema tiene desde antiguo una doctrina de que la igualdad es para igualdad de circunstancias. Pero qué tomamos como igual o distinto en cada caso nos da distintos resultados. En el caso [Caille](https://drive.google.com/file/d/1hYftCXZaSTx_A5iiJFm9Kv4dBKGOy9Dr/preview) la Corte no nos dio mayores respuestas, ya que el caso dependía si los iguales son lo que nacieron en el mismo año, o en el mismo día. 
+
+Podemos utilizar diferencias que son consecuencia de la _lotería natural_ para asignar derechos? parecería que no, que esos hechos no son relevantes desde el punto de vista moral y que el Estado no los puede tener en cuenta...
+
+Luego vimos que también tomaron esa posición los jueces Lorenzetti y Highton en [Reyes Aguilera](https://drive.google.com/file/d/1mlvoB1L7Yc-4y_1Pg9lTAoWwmh7-FeCx/preview). Al respecto, no se pierdan el comentario de Gargarella a ese voto, que lo llama [el peor argumento de la igualdad](http://seminariogargarella.blogspot.com/2007/09/cmo-no-debera-pensarse-el-derecho-la.html).
+
+[Arenzon](https://drive.google.com/file/d/1sexMzFAYvJzDeIjv7WtdjLSlUieEDmP0/preview)nos parece un buen caso de aplicación del estandar de mera razonabilidad (y Petracchi y Belluscio no se privan de sopapear a los que sostenían la constitucionalidad de esa norma!).
+
+Y despues entramos en lo que son las categorías sospechosas. Vimos el fallo [Hooft](https://drive.google.com/file/d/1HjgKUbQzeMzYCeRTy6krLwbdnHrPXLyy/preview) y [Gottschau](https://drive.google.com/file/d/12jFtphDeXyLGl3DrkpDRMW5Mr8MnMXBS/preview).
+
+La próxima terminamos con categorías sospechosas, pero desde el punto de vista de la igualdad como no sometimiento, y empezamos con desigualdad de trato...
+
+Aca están las [diapositivas](https://cursoinadiclase2.netlify.app/) de la clase, que tienen links.
+
+Y aca el [video](https://drive.google.com/file/d/1S7l37g-WNSTQYrhRjfaDj1L4N6US3jR7/view)
+
+<iframe src="https://drive.google.com/file/d/1S7l37g-WNSTQYrhRjfaDj1L4N6US3jR7/preview" width="720" height="480"></iframe>
+
