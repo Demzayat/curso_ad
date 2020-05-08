@@ -1,0 +1,187 @@
+---
+title: "Derecho Antidiscriminatorio"
+subtitle: "Clase 2"
+author: "Demián Zayat"
+institute: "Dirección Asistencia a la Víctima - INADI"
+date: "`r Sys.Date()`"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: ["default", "default-fonts", "my-theme.css"]
+    nature:
+      beforeInit: "macros.js"
+      autoplay: false
+      highlightLines: true
+      countIncrementalSlides: false
+      self_contained: true
+---
+class: inverse, middle,center
+
+# sitio del Curso
+[cursoinadi.antidiscriminacion.org](http://cursoinadi.antidiscriminacion.org)
+ 
+
+---
+## Clase 2. Igualdad como no discriminación
+
+La Constitución desde el año 1853 dice que:
+
+> Artículo 16.- La Nación Argentina no admite prerrogativas de sangre, ni de nacimiento: no hay en ella fueros personales ni títulos de nobleza. Todos sus habitantes son iguales ante la ley, y admisibles en los empleos sin otra condición que la idoneidad. La igualdad es la base del impuesto y de las cargas públicas. 
+
+.large[Pero ¿qué significa que _**Todos sus habitantes son iguales ante la ley**_?]
+---
+
+.center[![](https://3fybkfrr10x3tgp41p45lr3a-wpengine.netdna-ssl.com/wp-content/uploads/2017/03/Roll-Safe.jpg)]
+
+--
+
+.center[Veámos qué dijo .red[.large[LA CORTE SUPREMA]]]
+---
+**Fallo "Eduardo Caille s/enrolamiento"** CSJN, 26/10/1928
+
+<iframe src="https://drive.google.com/file/d/1hYftCXZaSTx_A5iiJFm9Kv4dBKGOy9Dr/preview" width="700" height="480"></iframe>
+
+---
+
+**Fallo "Eduardo Caille s/enrolamiento"** CSJN, 26/10/1928
+
+>_Que la igualdad establecida por el art. 16 de la Constitución como lo ha dicho reiteradamente esta Corte, no es otra cosa que el derecho a que no se establezcan excepciones o privilegios que excluyan a unos de lo que en iguales circunstancias se concede a otros; de donde se sigue que la verdadera igualdad consiste en aplicar la ley en los casos ocurrentes, según las diferencias constitutivas de ellos y que cualquier otra inteligencia o excepción de este derecho es contraria a su propia naturaleza y al interés social_
+
+---
+
+**Fallo "Eduardo Caille s/enrolamiento"** CSJN, 26/10/1928
+
+La discusión es 
+
+1) Trato igual a todos los que nacieron el mismo año
+
+2) Trato igual a todos los que nacieron el mismo día
+
+--
+
+
+> _Esto afecta por igual a todos los ciudadanos que se encuentran en identicas condiciones y que proviene de una desigualdad natural imposible de reparar._
+
+--
+
+¿Es el día de nacimiento relevante desde el punto de vista moral? ¿Sirve como criterio para asignar o denegar derechos?
+
+---
+**Fallo "Arenzon Gabriel c/ Estado Nacional"** CSJN, 15/5/1984
+
+<iframe src="https://drive.google.com/file/d/1sexMzFAYvJzDeIjv7WtdjLSlUieEDmP0/preview" width="700" height="480"></iframe>
+
+---
+
+**Fallo "Arenzon Gabriel c/ Estado Nacional"** CSJN, 15/5/1984
+
+
+  Ajuste de Medios $\rightarrow$ Fines
+  
+> _La negativa de extender el certificado de aptitud psicofísica, fundamentada únicamente en la estatura del actor -1.48 m.- no guarda **razonable relación** con el **objetivo** de estudiar el profesorado de matemática y astrofísica_
+
+---
+
+## Estandar de .fux[Mera Razonabilidad]
+
+--
+
+1. Identificar el **criterio** real de la clasificación, más allá del establecido en la norma.
+
+--
+
+1. Identificar el **objetivo** de la norma y determinar si es legítimo y permisible
+
+--
+
+1. **Ajuste** entre el criterio utilizado y el objetivo fijado. Puede ser 
+   * Sobreinclusivo: abarca más supuestos de los necesarios
+   * Subinclusivo: abarca menos supuestos de los necesarios
+   * Ambos a la vez
+
+--
+
+¿Cuán "desajustado" puede ser el criterio? Tolera un cierto desajuste, con deferencia al Poder Ejecutivo.
+
+---
+
+**Fallo "Reyes Aguilera, Daniela c/ Estado Nacional"** CSJN, 4/09/2007
+
+<iframe src="https://drive.google.com/file/d/1mlvoB1L7Yc-4y_1Pg9lTAoWwmh7-FeCx/preview" width="720" height="480"></iframe>
+
+---
+
+**Fallo "Reyes Aguilera, Daniela c/ Estado Nacional"** CSJN, 4/09/2007
+
+- Procuradora General + Lorenzetti y Highton: Test de Razonabilidad, es razonable.
+
+--
+
+- Fayt - Zaffaroni: Está en juego la vida. Resulta inconstitucional.
+
+--
+
+- Argibay - Petracchi: Categoría Sospechosa en la clasificación $\rightarrow$ *Escrutiño estricto* de razonabilidad: 
+  - Inversión de la carga de la prueba
+  - _Fines sustanciales_
+  - _Medios menos restrictivos posibles_
+
+--
+
+- Maqueda: No es Categoría sospechosa. Es Test de Razonabilidad, pero es irrazonable.
+
+---
+
+## Categorías sospechosas
+
+Si bien hubo un voto de Petracchi y Bacque en el caso "Reppeto María Ines c/ Provincia de Buenos Aires" de 1988 ([Fallos 311:2272](http://www.saij.gob.ar/descarga-archivo?guid=rstuvwfa-llos-comp-uest-o88000654pdf&name=88000654.pdf)), el primer caso donde la mayoria de la Corte recurre a las categorías sospechosas es .fux[Hooft].
+
+---
+
+### Fallo "Hooft, Pedro Cornelio c/ Provincia de Buenos Aires" CSJN 16/09/2003
+
+<iframe src="https://drive.google.com/file/d/1HjgKUbQzeMzYCeRTy6krLwbdnHrPXLyy/preview" width="640" height="480"></iframe>
+
+---
+
+## .fux[Escrutinio estricto] de Razonabilidad
+
+1. Inversión de la carga de la prueba: será el demandado quien tiene que probar
+
+2. Fines sustanciales y no meramente convenientes
+
+3. Medios no genéricamente adecuados a los fines, sino si los promueven efectivamente y no existen otras alternativas menos restrictivas para los derechos
+
+
+---
+### Fallo "Gottschau c/ Consejo de la Magistratura CABA" CSJN 08/08/2006
+
+<iframe src="https://drive.google.com/file/d/12jFtphDeXyLGl3DrkpDRMW5Mr8MnMXBS/preview" width="700" height="480"></iframe>
+
+---
+### Fallo "Gottschau c/ Consejo de la Magistratura CABA" CSJN 08/08/2006
+
+- Voto de la mayoría (Petracchi, Fayt, Zaffaroni, Lorenzetti): No es artículo 20 CN sino 16. No es mera razonabilidad, sino escrunio estricto por categoría sospechosa (_Hooft_)
+  - Inversión de la carga de la prueba
+  - Fines sustanciales
+  - Medios sin alternativa menos restrictiva
+  
+- Voto Maqueda y Highton: No es artículo 20 sino 16. No es mera razonabilidad, pero tampoco escruinio estricto $\rightarrow$ .fux[**escrutinio intermedio**]
+  - justificación suficiente (del medio elegido)
+  - algún interés estatal razonable (fines)
+
+---
+
+## .fux[Cuadro comparativo de criterios] 
+
+```{r echo = FALSE}
+library(DT)
+comp <- tibble::tibble(
+  Estandar = c("Fines", "Medios", "Escrutinio"),
+  Razonabilidad = c("deferencia", "tolerancia a desajuste", "laxo"),
+  Intermedio = c("algún interés razonable", "justificación suficiente", "mas intenso"),
+  Estricto = c("sustanciales", "no hay alternativa menos restris", "en gral fatal")
+)
+datatable(comp, options = list(dom = 't'))
+```
+
