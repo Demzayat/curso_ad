@@ -1,0 +1,158 @@
+---
+title: "Derecho Antidiscriminatorio"
+subtitle: "Clase 3"
+author: "Demián Zayat"
+institute: "Dirección Asistencia a la Víctima - INADI"
+date: "`r Sys.Date()`"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: ["default", "default-fonts", "my-theme.css"]
+    nature:
+      beforeInit: "macros.js"
+      autoplay: false
+      highlightLines: true
+      countIncrementalSlides: false
+      self_contained: true
+---
+class: inverse, middle,center
+
+# sitio del Curso
+[cursoinadi.antidiscriminacion.org](http://cursoinadi.antidiscriminacion.org)
+ 
+
+---
+# Clase 3. Categorías sospechosas (cont)
+
+La reunión pasada vimos:
+
+1. El estandar de mera razonabilidad, para comprobar si existía adecuación medio a fin en las clasificaciones que hacían las normas, diferenciando los supuestos (Arenzón, por ejemplo).
+
+2. El estandar de escrutiño estricto para ciertos casos donde la clasificación es contraria a la Constitución (Hooft, Gottschau, Reyes Aguilera).
+
+---
+## ¿Categorías sospechosas como no discriminación o como no sometimiento?
+
+A qué categorías se aplica? Podemos ver el artículo 1.1 de la Convención Americana (fuente de la ley 23.592)
+
+>  _Los Estados Partes en esta Convención se comprometen a respetar los derechos y libertades reconocidos en ella y a garantizar su libre y pleno ejercicio a toda persona que esté sujeta a su jurisdicción, sin discriminación alguna por motivos de raza, color, sexo, idioma, religión, opiniones políticas o de cualquier otra índole, origen nacional o social, posición económica, nacimiento o cualquier otra condición social._
+
+--
+
+
+¿Y con las acciones afirmativas cómo hacemos?
+
+---
+
+## Acciones afirmativas
+
+Las acciones afirmativas pretenden compensar a ciertos grupos históricamente desaventajados, y para ello toman en cuenta especialmente la característica por la que el Estado no podría mirar...
+
+.center[![](https://theavarnagroup.com/wp-content/uploads/2019/05/equality-equity-baseball.jpg)]
+
+---
+
+**Fallo "Univ of California vs. Bakke"** USSC 1978
+
+<iframe src="https://drive.google.com/file/d/11xQne4CyciNUGwbvsbPmhuMzpbXe1pwI/preview" width="700" height="500"></iframe>
+
+---
+
+**Fallo "Univ of California vs. Bakke"** USSC 1978
+
+- 4 jueces opinaban que tanto el programa como el uso de la raza eran inconstitucionales, y que había que utlizar el .fux[escrutiño estricto].
+
+- 4 jueces opinaban que la utilización de la raza en el programa estaba permitida, y que debía utizarse, para las clasificación _benignas_ el .fux[escrutiño intermedio]
+
+- Powell se paró en la mitad, y dijo que se podía utilizar la raza, pero que el programa de cupos fijos era inconstitucional
+
+Este criterio se repitió en _"Grutter v. Bollinger"_ (2006), _"Fisher v. Univ of Texas I"_ (2009) y en _"Fisher v. Univ of Texas II"_ (2016). En Fisher I repitieron que el estandar debía ser el **escrutiño estricto**, y en Fisher II resolvieron que el programa de Austin superaba este test de **escrutiño estricto.**
+
+---
+**  Fallo "Adarand Constructors v. Peña"** USSC 1995
+
+<iframe src="https://drive.google.com/file/d/1S26hiS0r79OTCIL-fhSnrpIMjU_tozKp/preview" width="700" height="500"></iframe>
+
+---
+background-image: url("https://better.net/chicago/wp-content/uploads/sites/2/2020/01/Notorious-RBG-book-cover-illustration-866x1024.jpg")
+
+---
+
+## ¿Y por casa como estamos?
+
+Nuestra constitución tiene algunas diferencias con la de EEUU afortunadamente.
+
+Ya vimos el art. 1 de la CADH, y los otros tratados, y la ley antidiscriminatoria fijan "categorías" sospechosas (_raza, color, sexo, idioma, religión, opiniones políticas o de cualquier otra índole, origen nacional o social, posición económica, nacimiento o cualquier otra condición social_).
+
+Lo mismo la ley 23.592: "_A los efectos del presente artículo se considerarán particularmente los actos u omisiones discriminatorios determinados por motivos tales como raza, religión, nacionalidad, ideología, opinión política o gremial, sexo, posición económica, condición social o caracteres físicos._"
+
+---
+## ¿Y por casa como estamos?
+
+El art. 37 CN dice que:
+.small[.pull-left[
+
+Esta Constitución garantiza el pleno ejercicio de los derechos políticos, con arreglo al principio de la soberanía popular y de las leyes que se dicten en consecuencia. El sufragio es universal, igual, secreto y obligatorio. **La igualdad real de oportunidades entre varones y mujeres para el acceso a cargos electivos y partidarios se garantizará por acciones positivas en la regulación de los partidos políticos y en el régimen electoral**.]]
+
+--
+.pull-right[
+![](https://i.redd.it/0ddcm8t27bd31.jpg)]
+
+---
+## ¿Y por casa como estamos?
+
+Pero el art. 75 inc. 23 dice que:
+
+.pull-left[_Legislar y promover medidas de acción positiva que garanticen la igualdad real de oportunidades y de trato, y el pleno goce y ejercicio de los derechos reconocidos por esta Constitución y por los tratados internacionales vigentes sobre derechos humanos, en particular respecto de **los niños, las mujeres, los ancianos y las personas con discapacidad**_.]
+
+--
+
+.pull_right[
+
+![:scale 50%](https://i1.sndcdn.com/artworks-000603203788-67rc43-t500x500.jpg)]
+
+---
+
+**Fallo "Partido Ciudad Futura"** CNE 13/07/2017
+
+<iframe src="https://drive.google.com/file/d/17ahXbshe4DBpdPJLECFGaRE3OSzinDJY/preview" width="700" height="500"></iframe>
+
+---
+### Pero también tenemos _.fux[la versión optimista]_
+
+Roberto Saba, [“Igualdad, clases y clasificaciones. ](https://drive.google.com/open?id=0B50ljTnhr79kZ2NUUlc2YUJIUFU).
+
+Voto de Petracchi en "Gonzalez de Delgado"
+
+<iframe src="https://drive.google.com/file/d/1xpc1IjyMT1x-b3mj0l2Jukxir-4Qe5fS/preview" width="700" height="350"></iframe>
+
+---
+### Pero también tenemos _.fux[la versión pesimista]_
+
+CSJN, Fallo "Z., J.J"
+<iframe src="https://drive.google.com/file/d/1oKpRmnycZweCHKas4nTvaTaJSDTRVv6c/preview" width="700" height="400"></iframe>
+
+---
+
+Codigo Fiscal 2019. Artículo 373.- Quedan exentos del pago de patentes:
+.small[
+(4) _Los vehículos de propiedad de personas con discapacidad que los tengan
+inscriptos a su nombre y acrediten su situación con certificado extendido por el
+Gobierno de la Ciudad Autónoma de Buenos Aires y/o autoridad competente, o se
+trate de unidades adquiridas dentro del régimen de la Ley Nacional Nº 19.279 y
+modificatorias._
+
+_Igual beneficio se hace extensible a los vehículos de propiedad de los padres o
+tutores, los descendientes, cónyuge y la pareja conviviente, esta última con la
+acreditación de dos (2) años de convivencia con la persona discapacitada. En todos
+los casos el vehículo debe estar destinado al uso de la persona con discapacidad y la valuación fiscal no debe superar el importe que fije la Ley Tarifaria._]
+
+---
+
+Vayan a [www.menti.com](https://www.menti.com/9doz9kq2k8) y pongan el código `19 01 16`
+
+O usen este QR si es mas facil
+
+.center[![:scale 60%](https://api.qrserver.com/v1/create-qr-code/?size=500x500&data=https://www.menti.com/9doz9kq2k8)]
+
+

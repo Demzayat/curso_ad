@@ -16,7 +16,7 @@ En este sitio encontrarán el material y los enlaces necesarios para poder segui
 
 # Cronograma
 
-El curso se desarrollará en cinco clases virtuales, a través de la applicación [Zoom](https://zoom.us/) o si llegara a no funcionar como esperamos, vamos a [Jitsi](https://meet.jit.si/) que es de código abierto.
+El curso se desarrollará en seis clases virtuales, a través de la applicación [Zoom](https://zoom.us/) o si llegara a no funcionar como esperamos, vamos a [Jitsi](https://meet.jit.si/) que es de código abierto.
 
 ## Clase 1. Introducción
 
@@ -46,6 +46,14 @@ Bibliografía
 - Gargarella, [Cómo no debería pensarse el derecho a la igualdad. Un análisis de las opiniones disidentes en el fallo Reyes Aguilera](http://seminariogargarella.blogspot.com/2007/09/cmo-no-debera-pensarse-el-derecho-la.html)
 
 ## Clase 3. Igualdad como no sometimiento, Categorías sospechosas
+
+
+**link**: [Join Zoom Meeting](https://us02web.zoom.us/j/6478558946?pwd=N0dBZVp0M1pNMFZLdWxFR0NFcnlXdz09)
+
+Meeting ID: 647 855 8946
+
+Password: 172517
+
 
 Diferencias entre grupos, mayoritarios vs. históricamente oprimidos. Qué hacer en casos de afectación a estos últimos. Análisis colectivo. Análisis de la discriminación en las normas o en los hechos, de particulares o del Estado, a través de políticas discriminatorias expresas o implícitas.
 
