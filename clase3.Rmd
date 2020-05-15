@@ -1,0 +1,36 @@
+---
+title: "Clase 3"
+author: "Demian Zayat"
+date: "5/15/2020"
+output: html_document
+---
+
+## Categorías sospechosas e igualdad como no sometimiento
+
+En este tercer encuentro, luego de algunos contratiempos con el zoom, pudimos ver los casos de acción afirmativa para analizar si adoptamos una visión de igualdad como no discriminación o de igualdad como no sometimiento.
+
+Luego de un repaso por la `mera razonabilidad` y por los casos de `escutiño estricto` de las categorías sospechosas que vimos (Hooft, Gottschau, Reyes Aguilera) pasamos a ver el análisis que hizo la Corte Estadounidense de las acciones afirmativas
+
+Vimos [Bakke](https://drive.google.com/file/d/11xQne4CyciNUGwbvsbPmhuMzpbXe1pwI/preview) (no lo dije, pero es un estracto del fallo que está publicado en el libro de Miller, Gelli y Cayuso, "Constitución y Derechos Humanos"), donde el voto de Powell define en utilizar un escrutiño estrictro al programa de la Universidad de California, y concluir que no lo pasa. 
+
+Luego vimos [Adarand Constructors](https://drive.google.com/file/d/1S26hiS0r79OTCIL-fhSnrpIMjU_tozKp/preview), donde se destacan los argumentos de la disidencia de Stevens y de Ruth Bather Guinsburg (recomiendo nuevamente la pelicula "RBG") que nos aclaran que no es muy dificil distinguir entre un cartel de "No pasar" y otro de "Bienvenido".
+
+Luego analizamos cómo es la situación en nuestro país, y qué dicen las normas. El artículo 37 no es del todo claro en tomar la idea de igualdad como no sometimiento, y la CNE pudo basarse en eso para resolver en contra del partido [Ciudad Futura](https://drive.google.com/file/d/17ahXbshe4DBpdPJLECFGaRE3OSzinDJY/preview), pero sí es muy claro el artículo 75 inciso 23. (escribí un paper comentando ese artículo de la constitución por si les interesa, publicado en la Constitución Comentada de Gargarella y Guidi (comps): [acciones afirmativas](https://drive.google.com/file/d/0B50ljTnhr79kZmpueXRJMnU1SlE/view?usp=sharing)).
+
+Luego, vimos que Roberto Saba, [“Igualdad, clases y clasificaciones. ](https://drive.google.com/open?id=0B50ljTnhr79kZ2NUUlc2YUJIUFU) mira con optimismo el voto de Petracchi en [Gonzalez de Delgado](https://drive.google.com/file/d/1xpc1IjyMT1x-b3mj0l2Jukxir-4Qe5fS/preview), aunque luego el mismo Petracchi haya firmado tambien [Z., J.J.(https://drive.google.com/file/d/1oKpRmnycZweCHKas4nTvaTaJSDTRVv6c/preview)].
+
+Finalmente, hicimos un pequeño ejercicio sobre el código fiscal de Caba y la exención de patentes para personas con discapacidad, que lo resolvieron en general muy bien:
+
+<div style='position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;'><iframe sandbox='allow-scripts allow-same-origin' allowfullscreen='true' allowtransparency='true' frameborder='0' height='315' src='https://www.mentimeter.com/embed/12856ce850dcf84ed76b3dc4657404d8/87e4100f7371' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' width='420'></iframe></div>
+
+
+Aca están las [diapositivas](https://cursoinadiclase3.netlify.app/).
+
+
+Y aca el [video](https://drive.google.com/open?id=1MlvmW7lZrtvSVDe4oweTvF1aygWJ7zPR). Por favor, para las próximas pogan en mute el microfóno cuando no lo usan, que me desconcentran mucho los ruiditos. Gracias!
+
+
+<iframe src="https://drive.google.com/file/d/1MlvmW7lZrtvSVDe4oweTvF1aygWJ7zPR/preview" width="920" height="600"></iframe>
+
+
+

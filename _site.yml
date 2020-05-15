@@ -7,6 +7,8 @@ navbar:
       href: clase1.html
     - text: Clase 2
       href: clase2.html
+    - text: Clase 3
+      href: clase3.html
 output:
   html_document:
     theme: flatly
