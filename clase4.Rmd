@@ -1,0 +1,51 @@
+---
+title: "Clase 4"
+author: "Demian Zayat"
+date: "5/22/2020"
+output: html_document
+---
+
+## Trato desigual
+
+En esta clase vamos a discutir la doctrina del _trato desigual_. Cuando la discriminación se da en los hechos y no en las normas, tenemos que analizar qué estandar utilizar para evaluar esos casos. En el _trato desigual_ la diferencia se crea en virtud de la pertenencia a la clase protegida. 
+
+Lo que hay que probar es que el decisor tuvo en cuenta la característica prohibida al tomar la decisión, y no que fue neutra o en virtud del azar.
+
+El primer fallo de esta doctrina fue el de la Corte estadounidense [McDonnell Douglas v. Green](https://drive.google.com/file/d/1nkfPElCGGJaU3YIPCN5dR3AWlqiDPdWb/preview) del año 1973. En ese caso se disctuió el trato desigual individual, la no recontratación de un empleado en virtud de su raza.
+
+La USSC estableció un test de tres partes:
+
+1. Prueba del caso _prima facie_. Para ello, será suficiente con probar que
+    * El actor es parte de una minoría
+    * Esta calificado y se postuló
+    * Fue rechazado
+    * La empresa siguió con su búsqueda
+
+2. Entonces, la demandada deberá probar una razón legítima y no discriminatoria
+
+3. En ese caso, el actor podrá mostrar que esto es un pretexto para ocultar la discriminación.
+
+Luego vimos el caso [Hazelwood v. United States](https://drive.google.com/file/d/1x7cQlXq4O79acwp4AwS1_19_pjATP_ZS/preview) del año 1977. Aquí la discusión era similar, pero era un caso estructural. El test también tendrá tres partes:
+
+1. El actor deberá probar _prima facie_ el patrón o práctica discriminatoria. Esto lo podrá hacer:
+    - Utilización de estadísticas: una disparidad estadística significativa constituye acreditación prima facie un caso de discrimianción
+    - Procedimiento subjetivo e informal de contratación
+    - casos individuales de discriminación
+    - historia de procedimientos discriminatorios
+
+2. El demandado deberá probar una justificación razonable y no discriminatoria
+
+3. El actor podrá acreditar que esto es un pretexto.
+
+Despues pasamos a los fallos de nuestra Corte Suprema que adoptan este tipo de estandar. Primero [Pellicori](https://drive.google.com/file/d/19PYCB6bdab7Tfksn1MlAjthW4AU5RXrA/preview) y luego [Sisnero](https://drive.google.com/file/d/1Lbw4tK5LU8J4xZs0igV6Qkff1z3LP7MZ/preview) donde se establece claramente que hace al derecho a un recurso eficaz, y a las obligaciones internacionales a las que se comprometió el Estado no requerir prueba acabada en los casos de discriminación.
+
+Entonces habrá que probar _prima facie_ el caso y luego será el demandado quien tiene que probar que existió una razón objetiva y no discriminatoria para el trato desigual.
+
+Creo que es un tema muy importante para el INADI lo abarcado en esta clase, por favor si quedan dudas las vemos el próximo encuentro.
+
+Acá las [diapositivas](https://cursoinadiclase4.netlify.app/).
+
+Y aca el [video](https://drive.google.com/file/d/16CCgSkyTaNJmhvsUBAn5Gf8Mf9V5Eom1/view)
+
+<iframe src="https://drive.google.com/file/d/16CCgSkyTaNJmhvsUBAn5Gf8Mf9V5Eom1/preview" width="700" height="500"></iframe>
+    
