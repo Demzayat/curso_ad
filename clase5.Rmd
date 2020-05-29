@@ -1,0 +1,49 @@
+---
+title: "Clase 5"
+author: "Demian Zayat"
+date: "5/29/2020"
+output: html_document
+---
+
+## Impacto Desproporcionado
+
+El **impacto desproporcionado** se da cuando una política _neutra_ impacta en los hechos de manera desproporcionada sobre algun grupo protegido o históricamente desaventajado. A diferencia del **trato desigual** (donde hay que probar que el empleador sí tuvo en cuenta la raza, el sexo u otras características protegidas), en el **impacto desproporcionado** para tener por acreditado su caso prima facie, los actores deben mostrar que la política del demandado impactó de modo dispar en un grupo protegido.
+
+Primero vimos el caso ["Griggs v. Duke Power Company"](https://drive.google.com/file/d/1HZzAUDnM0NXNH8mD4cULhhrLqWIbVPP0/preview), USSC 1971, en donde se establece el criterio siguiente:
+
+A. Actor $\rightarrow$ Caso _prima facie_: Práctica **neutra** que tiene un **impacto desproporcionado** en algún grupo protegido.
+    
+B. Justificación de la demandada $\rightarrow$ **Necesidad del negocio / Estado.** y  que está **en relación al puesto de trabajo**.
+
+C. Actor $\rightarrow$ Existe una alternativa con efecto menos discriminatorio.
+
+
+Luego, analizamos el caso [Fitzpatrick v. City of Atlanta](https://drive.google.com/file/d/1LiKpBX0iaeiO3_g8llVIfDTcgeYJ7juC/preview), del Circuito 11, 1993, en donde se discute el caso de los bomberos y la barba afeitada bajo los estándares de _Impacto desproporcionado_, _trato desigual_ y _ajustes razonables_. Bajo los tres entiende que la regla de barba afeitada no es discriminatoria.
+
+Por último, vimos cómo el criterio de _impacto desproporcionado_ fue receptado por nuestra Corte Suprema, en el fallo [Castillo, Carina y otro c/Prov. de Salta](https://drive.google.com/file/d/1V93vkr8E6h1RMIHXtT1DpYQRoB7HpIcL/preview) de diciembre de 2017.
+
+Allí, la corte reconoce la diferencia entre igualdad como no discriminación e igualdad como no sometimiento, y dentro de estas entiende que están las doctrinas de las categorías sospechosas, el trato desigual y el impacto desproporcionado.
+De esta última, entiende que "Que en los casos en los cuales exista una norma neutral que prima facie genere un impacto desmedido en los miembros de un grupo, resultará necesario para analizar su constitucionalidad -ante el riesgo de una discriminación a ese grupo-, comprobar la manera en que dicha norma se ha implementado. En otros términos, la disposición puesta en crisis por la existencia prima facie de discriminación justifica que el tribunal analice los efectos que su aplicación ha generado en la realidad."
+
+Tenemos un cuadrito con los estándares 
+
+| |Trato Desigual | Impacto Desprop
+--------|---------|---------
+Caso _prima facie_ |McDonnal Douglas / Hazelwood | Practica neutra con impacto desprop.
+Defensa | razón legítima y no discrminatoria | Necesidad del negocio / Estado
+Replica |es un pretexto | existe una alternativa menos discriminatoria
+
+
+En este caso, la Corte reconoce que existe algo como sería el "derecho antidiscriminatorio".
+
+Aca está el libro que les comenté de [Ayres](https://drive.google.com/open?id=1NgWibH_XDRJpdNbKsjna0trzQ0hKiKSz)
+
+
+
+Acá las [diapositivas](https://cursoinadiclase5.netlify.app/)
+
+Y aca el [video](https://drive.google.com/open?id=1ED3hdt1JEid4Xm9mPfkDj8GSfxeo2qFM)
+
+<iframe src="https://drive.google.com/file/d/1ED3hdt1JEid4Xm9mPfkDj8GSfxeo2qFM/preview" width="700" height="500"></iframe>
+
+
