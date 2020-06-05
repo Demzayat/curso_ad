@@ -1,0 +1,44 @@
+---
+title: "Clase 6"
+author: "Demian Zayat"
+date: "5/29/2020"
+output: html_document
+---
+
+## Ajustes razonables y discriminación entre particulares
+
+En primer lugar vimos los ajustes razonables, en principio para casos de personas con discapacidad, pero no sólo en esos casos, sino también para casos de discriminación por religión (acomodos de vestimentas, días laborales) o de género (lactarios, por ejemplo), entre otros.
+
+Los ajustes razonables surgen de la [Convención sobre los Derechos de las Personas con Discapacidad](https://drive.google.com/file/d/1Ljk4AHS0XNDNKZ7FUGnlyJMdnnfD9RPm/preview) y tiene como dos puntas: 
+- La actora acredita que es posible realizar ajustes razonables
+- La demandada puede probar que insumen una carga desproporcionada
+
+Esta Convención incorpora el _Modelo Social_ de la Discapacidad. Los ajustes razonables fueron analizados en el fallo [Emiliano Naranjo](https://drive.google.com/file/d/14Qcvmy2fyPE6_WNnNhMG6gl5Cl3cWynU/preview).
+
+Despues comenzamos a discutir la discriminación entre particulares. Vimos que el texto de [Saba](https://drive.google.com/open?id=0B50ljTnhr79kRGpUWGhQb3JZelU) considera que es posible realizar una diferencia de grados en los vinculos, desde más intimos hasta más recreativos.
+
+Luego analizamos el tema de los alquileres con el fallo de la Cámara Civil [Hetzriken c. Sanfuentes](https://drive.google.com/file/d/1a9w3fb0BR7fcxsxL4ZWhv65DrxyAfmoP/preview).
+
+Y por último [Álvarez c. Cencosud](https://drive.google.com/file/d/1QyuBXYmez3AuUFE07agy73ym0p5nKmuo/preview), donde la mayoría y la minoría disienten en tanto el remedio frente a los despidos sindicales discriminatorios.
+
+[Justo hoy leí un hilo de twitter donde menciona una resolución de la CSJN sobre una cautelar, donde se ve este cambio de mayorías [aca](https://twitter.com/luiscampos76/status/1268942002432942080?s=20)]
+
+Muchas gracias por su asistencia y buena predisposicion. 
+Este es la nube de palabras de sus comentarios
+
+<div style='position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;'><iframe sandbox='allow-scripts allow-same-origin allow-presentation' allowfullscreen='true' allowtransparency='true' frameborder='0' height='315' src='https://www.mentimeter.com/embed/0f04321b2ade92bc0ba77ee97b09cd8c/e263ec468415' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' width='420'></iframe></div>
+
+
+
+Acá las  [diapositivas](https://cursoinadiclase6.netlify.app/)
+
+
+
+
+Tuvimos un corte así que son dos videos, [1](https://drive.google.com/file/d/1W5emo1KiULHS5eaFS7ZFgDn5aE9ft0Nl/preview) y [2](https://drive.google.com/file/d/1WMlaQj4BWCLegjsX4vMaJv1QbSNABsi7/preview)
+
+
+<iframe src="https://drive.google.com/file/d/1W5emo1KiULHS5eaFS7ZFgDn5aE9ft0Nl/preview" width="700" height="480"></iframe>
+
+
+<iframe src="https://drive.google.com/file/d/1WMlaQj4BWCLegjsX4vMaJv1QbSNABsi7/preview" width="700" height="480"></iframe>
