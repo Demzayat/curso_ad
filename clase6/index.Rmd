@@ -1,0 +1,163 @@
+---
+title: .bordo[Derecho Antidiscriminatorio]
+subtitle: "Clase 6"
+author: "Demián Zayat"
+institute: "Dirección Asistencia a la Víctima - INADI"
+date: "`r Sys.Date()`"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: ["default", "default-fonts", "my-theme.css"]
+    nature:
+      beforeInit: "macros.js"
+      autoplay: false
+      highlightLines: true
+      countIncrementalSlides: false
+      self_contained: true
+---
+class: inverse, middle,center
+
+# sitio del Curso
+[cursoinadi.antidiscriminacion.org](http://cursoinadi.antidiscriminacion.org)
+
+# diapositivas 
+[cursoinadiclase6.netlify.app](https://cursoinadiclase4.netlify.app/)
+---
+# Repaso
+
+La reunión pasada vimos:
+
+1. La teoría del .bordo[impacto desproporcionado] que se da cuando una política _neutra_ impacta en los hechos de manera desproporcionada sobre algun grupo protegido o históricamente desaventajado. 
+
+2. Analizamos el test y la prueba _prima facie_ del caso (impacto desproporcionado sobre un grupo protegido), y la defensa de _la necesidad del Estado / en relación al puesto de trabajo_, y la réplica posible sobre que existen _alternativas menos discriminatorias_
+
+---
+
+# Clase 6. Ajustes razonables y discriminación entre particulares
+
+En la clase de hoy  (la última de este ciclo) vamos a ver lo siguiente si nos da el tiempo. 
+
+1. El primero relacionado a las personas con discapacidad y los ajustes razonables, 
+
+2. El segundo relacionado con las exigencias de no discriminación entre particulares.
+
+3. Cierre
+
+---
+class: middle, center, inverse
+Ahí vamos
+
+.center[![:scale 200%](https://media.giphy.com/media/3o7ZetIsjtbkgNE1I4/giphy.gif)]
+
+---
+## Personas con Discapacidad
+
+La Convención sobre los Derechos de las Personas con Discapacidad establece el .fux[Modelo Social] de la discapacidad. Así, la discapacidad se define en relación a la actual disposición de la sociedad.
+
+<iframe src="https://drive.google.com/file/d/1Ljk4AHS0XNDNKZ7FUGnlyJMdnnfD9RPm/preview" width="700" height="330"></iframe>
+
+---
+## Modelo Social
+
+Este modelo fue reconocido también por la jurisprudencia de la Corte Interamericana:
+
+.small[> Al respecto, la Corte observa que en las mencionadas Convenciones se tiene en
+cuenta el modelo social para abordar la discapacidad, lo cual implica que la discapacidad no se define exclusivamente por la presencia de una deficiencia física, mental, intelectual o sensorial, sino que se interrelaciona con las barreras o limitaciones que socialmente existen para que las personas puedan ejercer sus derechos de manera efectiva. Los tipos de límites o barreras que comúnmente encuentran las personas con diversidad funcional en la sociedad, son, entre otras, barreras físicas o arquitectónicas, comunicativas, actitudinales o socioeconómicas.]
+
+_Furlan y Familiares vs. Argentina_ CorteIDH, 31 de Agosto 2012.
+
+---
+
+## Ajustes razonables
+
+La denegatoria de ajustes razonables, cuando ellos son posibles, es un modo de discriminación (por trato desigual). Lo mismo cuando no se contrata una persona para evitar la realizacion de tales ajustes
+
+> _Existe una protección en el trato, con una obligación positiva para los empleadores de no evitar la contratación o de no despedir a una persona en virtud de que la persona requiere ajustes razonables._ (USSC, EEOC v. Abercrombie, 1 de Junio 2015).
+
+Hay una obligación de realizar .fux[ajustes razonables] siempre que ellos no contraigan .fux[una carga excesiva].
+---
+
+## Fallo "Naranjo, Emiliano c/ U.N.L.M", CSJN 2015
+
+<iframe src="https://drive.google.com/file/d/14Qcvmy2fyPE6_WNnNhMG6gl5Cl3cWynU/preview" width="700" height="480"></iframe>
+
+---
+
+## Acciones afirmativas. Cupo laboral
+
+La ley 22.431 (1981) ya establecía un cupo del 4% de la planta de empleados públicos para las personas con discapacidad:
+
+.small[ > Art. 8° - El Estado nacional, sus organismos descentralizados o autárquicos, los entes públicos no estatales, las empresas del Estado y la Municipalidad de la Ciudad de Buenos Aires, están obligados a ocupar personas discapacitadas que reúnan condiciones de idoneidad para el cargo, en una proporción no inferior al cuatro por ciento (4 %) de la totalidad de su personal.]
+---
+## Acciones afirmativas. Cupo laboral
+
+La ley 25.689 amplio a los tres poderes este cupo al incorporar al art. 8 lo siguiente:
+
+<iframe src="http://servicios.infoleg.gob.ar/infolegInternet/anexos/20000-24999/20620/texact.htm" width="700" height="480"></iframe>
+
+---
+## Acciones afirmativas. Cupo laboral
+
+¿Qué significa _prioridad de ingreso a igualdad de mérito_? ¿Es sólo que frente a un empate en el concurso se priorizará a la PCD? 
+
+Si es una acción afirmativa, pensada para revertir una situación histórica de exclusión de un grupo del mercado laboral, sería mejor pensarlo como un mecanismo paralelo al establecido para las personas sin discapacidad. ¿Podremos llegar a eso?
+
+---
+
+## Discriminación entre particulares
+
+Se puede establecer un grado en el nivel de afinidad (Saba)
+
+1. Vínculos íntimos (matrimonio, amistades)
+
+2. Algo intermedio. Quizas buscan difundir cierto mensaje, pero no puede ser de odio.
+
+3. Recreativos (clubes deportivos o sociales, asociaciones profesionales). Ver cuáles son los objetivos (escuelas tienen objetivos distintos que religiones, por ejemplo... FASTA?)
+
+---
+## Fallo "Hertzriken c/ Sanfuentes", CNCiv, 2006
+
+<iframe src="https://drive.google.com/file/d/1a9w3fb0BR7fcxsxL4ZWhv65DrxyAfmoP/preview" width="700" height="480"></iframe>
+
+---
+## Fallo "Alvarez c/ Cencosud", CSJN, 2010
+
+<iframe src="https://drive.google.com/file/d/1QyuBXYmez3AuUFE07agy73ym0p5nKmuo/preview" width="700" height="480"></iframe>
+
+---
+## Fallo "Alvarez c/ Cencosud", CSJN, 2010
+
+Cómo reparar casos de discrimincación laboral?
+
+- Mayoría (Fayt, Petracchi, Maqueda, Zaffaroni): reinstalar en el puesto de trabajo
+
+- Minoría (Lorenzetti, Highton, Argibay): indemnización agravada.
+
+--
+
+¿Sería lo mismo en los casos en que se persiga a un grupo sometido históricamente?
+
+--
+
+Saba propone que la reinstalación solo sea para casos de discriminación como no sometimiento, pero no en todos los casos de discriminación...
+
+---
+
+## Cierre 
+
+Antes de terminar, una muy breve encuesta
+
+.pull-left[ [www.menti.com](https://www.menti.com/ggxm244chu)
+
+` codigo 44 76 7`
+]
+
+.pull-right[
+![qr](https://api.qrserver.com/v1/create-qr-code/?size=500x500&data=https://www.menti.com/ggxm244chu)
+]
+
+---
+class: middle
+
+<div style='position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;'><iframe sandbox='allow-scripts allow-same-origin allow-presentation' allowfullscreen='true' allowtransparency='true' frameborder='0' height='400' src='https://www.mentimeter.com/embed/0f04321b2ade92bc0ba77ee97b09cd8c/e263ec468415' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' width='`500'></iframe></div>
+
